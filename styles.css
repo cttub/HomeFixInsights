@@ -48,11 +48,13 @@ header {
     justify-content: center;
     align-items:flex-start;
     margin: 10px;
+    width: 500px;
 }
 
 .blog-card h2 {
     font-size: 1.5em;
     margin-bottom: -5px;
+    text-align: center;
 }
 
 .blog-card p {

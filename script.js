@@ -4,14 +4,22 @@ const blogs = [
         description: 'A quick guide to improve your garden.',
         category: 'Landscaping',
         link: 'blogs/landscaping.html',
-        image: 'images/landscaping.jpg' // Add the path to the image
+        image: 'images/landscaping.jpg' 
     },
     {
         title: 'Roofing Essentials',
         description: 'What you need to know about your roof.',
         category: 'Roofing',
         link: 'blogs/roofing.html',
-        image: 'images/roof.jpg' // Add the path to the image
+        image: 'images/roof.jpg'
+    },
+    {
+        title: 'Top Landscaping Companies and Services in Springfield, MO',
+        description: 'Learn about wonderful companies in Springfield Missouri.',
+        category: 'Landscaping',
+        link: 'blogs/landscapingSpringfield.html',
+        image: 'images/lawnmower.jpg' 
+
     },
     // Add more blog objects as needed
 ];
